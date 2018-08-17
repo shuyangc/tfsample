@@ -1,0 +1,4 @@
+#Wed Aug 15 21:43:31 SGT 2018
+base.0=C\:\\Users\\PMXT36\\tf\\android_sample\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

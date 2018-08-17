@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PMXT36\\tf\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PMXT36\\tf\\tensorflow\\tensorflow\\examples\\android\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "2",
+                        "startOffsets": "221",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\PMXT36\\tf\\android_sample\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PMXT36\\tf\\android_sample\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "2",
+                        "startOffsets": "221",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        }
+    ]
+}
